@@ -24,7 +24,7 @@ cup by the dealer sitting on the floor. The player must guess if the
 dice total to an even (cho) or odd (han) number.
 ''')
 
-# Adding print message to explain the dice_total is equal to 2 or 7, there is a 10 mon bonus
+# MS: Adding print message to explain the dice_total is equal to 2 or 7, there is a 10 mon bonus
 print('Note: If the dice total is a 2 or a 7, you receive a 10 mon bonus!')
 
 purse = 5000
