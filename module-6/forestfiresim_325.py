@@ -1,3 +1,6 @@
+# Group 5 Assignment 6.2 11/24/2024 CSD325-A339
+# Morgan Wheeler, Miles Shinsato, Lea Trueworthy, Samir Rodriguez
+
 """Forest Fire Sim, modified by Sue Sampson, based on a program by Al Sweigart
 A simulation of wildfires spreading in a forest. Press Ctrl-C to stop.
 Inspired by Nicky Case's Emoji Sim http://ncase.me/simulating/model/
